@@ -132,7 +132,7 @@ a{
 
 /* Daqui para baixo é a parte de responsividade */
 
-@media screen and (max-width: 5380px) {
+/*@media screen and (max-width: 5380px) {
     
     .container-left{
         width: 100%;
