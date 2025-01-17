@@ -132,7 +132,7 @@ a{
 
 /* Daqui para baixo é a parte de responsividade */
 
-/*@media screen and (max-width: 5380px) {
+@media screen and (max-width: 1135px) {
     
     .container-left{
         width: 100%;
@@ -144,15 +144,17 @@ a{
     .container-right {
         display: block;
         height: auto;
-        width: 100%;
+        width: 118%;
         position: static;
-        padding: 100px;
+        padding: 70px;
+        margin-left: 1px;
     }
 
     img {
         position:static;
-        max-width: 90%;
-          
+        max-width: 169%;
+        margin: -22px -16px;
+        width: 218px;
     }
 
     header {
@@ -164,23 +166,23 @@ a{
         font-size: 50px;
         line-height: 52px;
         width: auto;
-        margin: 58px 50px 0 50px;
+        margin: -5px -8px -42px 48px;
         text-align: center;
         height: 144px;
     }
 
     p{
-        margin: 15px 40px;
+        margin: 13px -26px 35px 21px;
         width: auto;
         text-align: center;
-        font-size: 25px;
-       line-height: 24px;
+        font-size: 20px;
+        line-height: 24px;
     }
 
     button{
-        margin: 40px auto;
+        margin: 33px 95px 22px 95px;
         display: block;
-        width: 206px;
+        width: 189px;
         height: 35px;
         top: 288px;
         left: 54px;
